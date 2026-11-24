@@ -21,11 +21,4 @@ build/
 *.swp
 *.swo
 
-# Operating system files
-.DS_Store
-Thumbs.db
 
-# Logs and temporary files
-*.log
-*.tmp
-*.bak
